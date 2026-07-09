@@ -45,4 +45,4 @@ This repository is created to practice Git and GitHub workflows with collaborato
 
 ---
 
-**Purpose:** This repository is for learning and practicing Git collaboration in a team environment.
+**Purpose:** This repository is for learning and practicing Git collaboration in a team env.
