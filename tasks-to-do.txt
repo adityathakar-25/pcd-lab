@@ -1,0 +1,5 @@
+character constant
+string constant
+integer constant
+float - maybe or maybe not in scientific format
+comments - single and multi line
