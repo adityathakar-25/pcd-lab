@@ -1,0 +1,7 @@
+Learning Git Stash
+
+Learn how to temporarily save unfinished work.
+
+git stash is a built-in Git command that temporarily saves your uncommitted changes (both staged and unstaged). 
+So you can work on something else without losing your progress. 
+It reverts your working directory back to a clean state matching the last commit (HEAD).
