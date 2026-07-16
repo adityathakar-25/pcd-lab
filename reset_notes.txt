@@ -1,0 +1,1 @@
+The git reset command is used to undo changes, unstage files, or roll back commit history by moving your current branch pointer (HEAD) to a different state.The 3 Core ModesHow git reset behaves depends entirely on the flag you pass to it. Git operates on three trees: your Commit History (HEAD), your Staging Area (Index), and your Working Directory (local files)
